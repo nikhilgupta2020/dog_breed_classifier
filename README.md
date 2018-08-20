@@ -1,2 +1,2 @@
 # dog_breed_classifier
-Algorithm for a Dog Breed Classifier - Udacity Machine Learning Nanodegree
+Algorithm for a Dog Breed Classifier - Udacity MLND - Deep Learning
